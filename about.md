@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "something"
-permalink: /URL-PATH/
-
+permalink: /about/
 ---
 
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
