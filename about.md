@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "something"
+title: "about the question of md"
 permalink: /about/
 ---
 
