@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Hacker
 ---
 
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
