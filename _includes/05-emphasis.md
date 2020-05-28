@@ -2,3 +2,4 @@ __Write out some of your awesome attributes,__ and use emphasis (like bold or it
 
 #### Other Pages
 [About](https://m.red.gs/about)
+{% post_url 2020-05-29-happy-days %}
