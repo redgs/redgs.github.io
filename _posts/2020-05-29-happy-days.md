@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Welcome"
-
+title: Blogging Like a Hacker
 ---
 
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
@@ -13,3 +12,5 @@ Oh! I haven't introduced myself...
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master 
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+
