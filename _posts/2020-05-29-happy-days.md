@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome"
+
 ---
 
 ## Your GitHub Learning Lab Repository for Communicating Using Markdown
