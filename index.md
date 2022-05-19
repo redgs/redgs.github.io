@@ -4,6 +4,4 @@ layout: default
 
 {% include 01-name.md %}
 
-<br>
-
-{% include 05-emphasis.md %}
+{% include 06-body.md %}
