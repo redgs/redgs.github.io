@@ -8,9 +8,3 @@ Smart Buildings is not something for everyone, but more of a ranges of understan
 - Building Intelligence Assement Solutions
 - Building Intelligence Automation Specialist
 - Building Intelligence Accreditation Solution
-
-#### Other Pages
-[This should indicate changes](https://m.red.gs/about)
-
-[Link to another page]({% post_url 2020-05-29-happy-days %})
-
