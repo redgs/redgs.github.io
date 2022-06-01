@@ -1,3 +1,3 @@
 # Header here
 
-Meaningfull information
+Meaningful information
