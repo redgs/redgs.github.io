@@ -9,6 +9,8 @@ Welcome to **your** repository for your GitHub Learning Lab course. This reposit
 
 Oh! I haven't introduced myself...
 
+Another comment
+
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master 
 
 
